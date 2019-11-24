@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/settings.png</file>
+        <file>images/clear.png</file>
+        <file>images/Black-Settings.png</file>
+        <file>images/Developer Blue Folder.png</file>
+        <file>images/Downloads Folder.png</file>
+        <file>images/Downloads.png</file>
+        <file>images/Terminal.png</file>
+        <file>images/Utility.png</file>
+        <file>images/bconf.png</file>
+        <file>images/SaveFlash.ico</file>
+        <file>images/SaveFlash2.ico</file>
+    </qresource>
+</RCC>
